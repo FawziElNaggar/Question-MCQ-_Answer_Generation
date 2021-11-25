@@ -17,6 +17,5 @@ python main.py
 !pip3 install -r  requirements.txt
 !sh install.sh
 !python main.py
-}
 ```
 
